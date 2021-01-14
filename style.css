@@ -1,0 +1,28 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50 px;
+    font-weight: 700;
+}
+h3{
+    color:coral;
+    font-weight: 700;
+}
+
+#nike{
+    color: coral;
+}
+#run{
+    color: rgb(20, 59, 131);
+}
+.shopping-card img{
+    width: 80%;
+}
+.shopping-card{
+    border: 0;
+}
+.shoe-card{
+    border: 0;
+}
