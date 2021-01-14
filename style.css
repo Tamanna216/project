@@ -18,7 +18,8 @@ h3{
     color: rgb(42, 100, 209);
 }
 .shopping-card img{
-    width: 80%;
+    width: 60%;
+    align-self: center;
 }
 .shopping-card{
     border: 0;
@@ -29,4 +30,20 @@ h3{
 }
 #subscribe{
     background-color: #d684b4;
+}
+.container img{
+    
+    width: 78px;
+    height: 82px;  
+}
+
+.fashion{
+    border: 0;
+    border-radius: 5px;
+    text-align: center;
+}
+.heading{
+    font-size: 25px;
+    font-weight: bold;
+   color:rgb(90, 129, 247);
 }
